@@ -21,8 +21,8 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     style="@style/IncorrectTally"
-    app:layout_contraintTop_toTopOf="parent"
-    app:layout__constraintRight_toRightOf="parent"/>
+    app:layout_constraintTop_toTopOf="parent"
+    app:layout_constraintRight_toRightOf="parent"/>
 
     <TextView
       android:id="@+id/value_display"
