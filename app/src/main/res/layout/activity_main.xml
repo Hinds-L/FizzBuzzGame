@@ -37,8 +37,8 @@
     <ToggleButton
       android:id="@+id/fizz_toggle"
       android:layout_height="wrap_content"
-      android:textOff="@string/buzz_off"
-      android:textOn="@string/buzz_on"
+      android:textOff="@string/fizz_off"
+      android:textOn="@string/fizz_on"
     style="@style/FizzBuzzToggle"
       app:layout_constraintLeft_toLeftOf="parent"
     app:layout_constraintBottom_toBottomOf="parent"
